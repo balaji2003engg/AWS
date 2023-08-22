@@ -1,5 +1,5 @@
 # AWS-VPC
-Problem statement: Create the EC2 machine in public subnet and another EC2 machine with private subnet with NAT gateway
+# Problem statement: Create the EC2 machine in public subnet and another EC2 machine with private subnet with NAT gateway
 
 1. Create the VPC and name it as CGTraining
 
