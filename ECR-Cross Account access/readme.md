@@ -53,7 +53,9 @@
   ]
 }
 
+```
 
+Reference link  https://repost.aws/knowledge-center/lambda-ecr-image
 ```
 
 Reference : 
