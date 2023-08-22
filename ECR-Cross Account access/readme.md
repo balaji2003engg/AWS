@@ -1,7 +1,9 @@
 #Cross Account ECR image access to the lambda
 
 1. Assume that ECR repo exists in acount1 and lambda exists in the account2. Example Amazon ECR repository cross-account policy and need to attach  the policy to the ECR 
+Account 1 : 222222222222
 
+Account 2 : 111111111111
 ```
 {
   "Version": "2012-10-17",
