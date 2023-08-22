@@ -35,7 +35,7 @@
     }
   ]
 }
-
+```
 2. Attach the below policy to the lambda
 
 
