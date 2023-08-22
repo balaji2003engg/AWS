@@ -36,7 +36,9 @@
   ]
 }
 
-2. Attach the below policy to the lambda 
+2. Attach the below policy to the lambda
+
+
 ```
 {
   "Version": "2012-10-17",
@@ -56,7 +58,4 @@
 ```
 
 Reference link  https://repost.aws/knowledge-center/lambda-ecr-image
-```
 
-Reference : 
-https://repost.aws/knowledge-center/lambda-ecr-image
