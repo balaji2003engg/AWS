@@ -12,12 +12,12 @@ Before copying the key pair, ensure that you have the necessary permissions to p
 
     Step 3:Create the EC2 instance in account 1
 
-     Time to spin up that EC2 instance! When you're setting it up, use that key pair you just dealt with. Once it's up and running, jump into the server, grab the public key, and you're good to go
+Time to spin up that EC2 instance! When you're setting it up, use that key pair you just dealt with. Once it's up and running, jump into the server, grab the public key, and you're good to go
 
 
      Step 4:   Create the keypair using public key on another account ( account 2)
 
-     Head over to the Keypair section in the other account and just click on 'export key pair.' Then, toss in the public key when prompted. Easy peasy!
+Head over to the Keypair section in the other account and just click on 'export key pair.' Then, toss in the public key when prompted. Easy peasy!
 
 
     Step 5: Verify and Use the Key Pair
